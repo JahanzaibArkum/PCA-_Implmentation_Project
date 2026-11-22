@@ -1,0 +1,8 @@
+Region,PC1,PC1 sig,PC2,PC2 sig,PC3,PC3 sig,PC4,PC4 sig
+"Alaska / NW Canada (60-70N, 155-125W)",-0.318,True,0.025,False,0.729,True,-0.184,False
+"Western USA (32-45N, 125-110W)",0.265,True,-0.586,True,-0.304,True,0.191,True
+"Central USA / Plains (35-47.5N, 105-92W)",0.801,True,-0.041,False,-0.267,True,-0.054,False
+"Eastern USA / Gt Lakes (35-47.5N, 88-75W)",0.404,True,0.74,True,-0.082,False,-0.326,True
+"Hudson Bay / Arctic Canada (55-70N, 95-65W)",0.259,True,0.327,True,0.284,True,0.783,True
+"Greenland / N. Atlantic (60-75N, 60-30W)",-0.149,False,-0.013,False,-0.053,False,0.403,True
+"Mexico / Gulf (17.5-27.5N, 105-85W)",0.038,False,0.491,True,-0.075,False,-0.18,True
